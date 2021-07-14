@@ -3,5 +3,13 @@
 int main()
 {
 	printf("Hello world! I am in Github")
-	return 0;
+	printf("Hello world! I am in Github")
+	printf("Hello world! I am in Github")
+	printf("Hello world! I am in Github")
+	printf("Hello world! I am in Github")
+	printf("Hello world! I am in Github")
+	printf("Hello world! I am in Github")
+	printf("Hello world! I am in Github")
+	printf("Hello world! I am in Github")
+	printf("Hello world! I am in Github")
 }
